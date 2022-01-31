@@ -41,8 +41,7 @@ WhatsApp Bot
 
 - Owner number [Here](https://github.com/ADIL-0448/Queen-Alexa/
 - Owner Name [Here](https://github.com/ADIL-0448/Queen-Alexa
-- Bot Name [Here](https://github.com/ADIL-0448/Queen-Alexa
-
+- Bot Name [Here](https://github.com/ADIL-0448/Queen-Alexa/blob/main/settings.json
 ## `CHANGE DYNO`
 
 Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
