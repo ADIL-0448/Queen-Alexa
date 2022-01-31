@@ -41,7 +41,7 @@ WhatsApp Bot
 
 - Owner number [Here](https://github.com/ADIL-0448/Queen-Alexa/
 - Owner Name [Here](https://github.com/ADIL-0448/Queen-Alexa
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Bot Name [Here](https://github.com/ADIL-0448/Queen-Alexa
 
 ## `CHANGE DYNO`
 
